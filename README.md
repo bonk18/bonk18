@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **bonk18/bonk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there 👋
-
 I'm an Information Science undergraduate passionate about Data Science, Machine Learning, and Software Development.
 
 Currently, I'm working on machine learning projects, research in healthcare AI, and a personal cross-device smart assistant project.
