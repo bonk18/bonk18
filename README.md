@@ -33,11 +33,11 @@ Everything here is built to learn and experiment.
 
 ## 🚀 Current Interests
 
-- 🧠 Machine Learning & Healthcare AI
-- 📊 Data Science & Analytics
-- 💻 Software Development
-- 🔢 Mathematics & Problem Solving
-- 🏎️ Formula 1 Data & Performance Engineering
+- Machine Learning & Healthcare AI
+- Data Science & Analytics
+- Software Development
+- Mathematics & Problem Solving
+- Formula 1 Data & Performance Engineering
 
 ---
 
